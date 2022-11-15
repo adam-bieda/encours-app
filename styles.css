@@ -3,7 +3,7 @@
 
 
 /**Home**/
-header{
+#header{
     padding-top:40px;
     padding-bottom:40rem;
     margin-left:30px;
@@ -11,7 +11,10 @@ header{
 }
 
 .header-hero{
+    font-family: 'Montserrat', sans-serif;
+    font-weight:900;
     font-size:3rem;
+    line-height:1.5;
 }
 
 h4{
